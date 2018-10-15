@@ -5,3 +5,6 @@ WordCount*
 input
 output
 *jar
+pig_*.log
+files/*
+keywords*
